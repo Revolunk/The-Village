@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7848c67da6cd046329bbe2882dd6a561, type: 3}
+  m_Name: Temporary Mana Potion
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 7879403321847513281, guid: e0e35d07df23e48e085b4b1bce6e3c81,
+    type: 3}
+  itemTag: TemporaryMana
+  itemImage: {fileID: 21300000, guid: 69c78a4ac4eb0411a94b11aa09a2f683, type: 3}
+  itemName: Temporary Mana Potion
+  itemDescription: This potion keeps your mana up for 30 min. 30 points for you.
+  itemUsePoints: 30
+  itemTimer: 1800
+  itemPrice: 20

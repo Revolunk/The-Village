@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7848c67da6cd046329bbe2882dd6a561, type: 3}
+  m_Name: Mana Potion
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 8346143730644901165, guid: c9b4d92f6b98c44768393d7dd67e4fc5,
+    type: 3}
+  itemTag: ManaPercent
+  itemImage: {fileID: 21300000, guid: 606c895afe5814cc78fc3a7d03a327d4, type: 3}
+  itemName: Mana Potion
+  itemDescription: Renews 50% of total mana.
+  itemUsePoints: 50
+  itemTimer: 0
+  itemPrice: 30

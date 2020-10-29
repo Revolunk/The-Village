@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7848c67da6cd046329bbe2882dd6a561, type: 3}
+  m_Name: Torch
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 66134540096705454, guid: 8d6596c1572ee4568863847ba7987c07,
+    type: 3}
+  itemTag: 
+  itemImage: {fileID: 0}
+  itemName: Torch
+  itemDescription: Gives some light and warms a bit.
+  itemUsePoints: 0
+  itemTimer: 0
+  itemPrice: 5
