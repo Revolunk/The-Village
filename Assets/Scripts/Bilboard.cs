@@ -12,4 +12,3 @@ public class Bilboard : MonoBehaviour
         transform.LookAt(transform.position + currentCamera.transform.forward);
     }
 }
-done
